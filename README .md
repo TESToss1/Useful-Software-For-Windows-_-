@@ -1,6 +1,7 @@
 Keepass:
 ========
-c'est littéralement un coffre-fort securisé pour tout vos mot dfe passe.
+c'est littéralement un coffre-fort securisé pour tout vos mot de passe vous permettant de manière très sécurisé de les stocket avec un "MASTER PASSWORD", comme dirai (pour ceux qui connaissent la référence cinématographique): 
+"un PASSWORD POUR LES GOUVERNER TOUS" (^_^).
 
 desinstalleur:
 ==============
